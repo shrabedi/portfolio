@@ -1,0 +1,11 @@
+nltk==3.8.1
+textblob==0.17.1
+transformers==4.37.2
+torch==2.2.1
+scikit-learn==1.4.1
+numpy==1.26.4
+pandas==2.2.0
+pytest==7.4.4
+pytest-cov==4.1.0
+black==24.1.1
+flake8==7.0.0
